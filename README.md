@@ -5,10 +5,9 @@
 [![download - v2-161121](https://img.shields.io/badge/download-v2--161121-blue?style=for-the-badge)](https://www.curseforge.com/minecraft/modpacks/osirixcraft/files/3540779)
 [![Support Server](https://img.shields.io/discord/704791657463283882.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/YpteAkE)
 
-<p>&nbsp;</p>
 <h3>ES- <strong>OsirixCraft Mods</strong></h3>
 <p>El modpack de OsirixCraft es un conjunto de mods que agregan una variedad de contenidos customizados, aventura, exploraci&oacute;n, npc, misiones y m&aacute;s. Estos mods est&aacute;n seleccionados para su uso en el servidor de OsirixCraft para la comunidad de OsirixPlayer.</p>
-<h3>&nbsp;</h3>
+
 <h3>UK- <strong>OsirixCraft Mods</strong></h3>
 <p>The OsirixCraft modpack is a set of mods that add a variety of custom content, adventure, exploration, npc, quests and more. These mods are selected for use on the OsirixCraft server for the OsirixPlayer community.</p>
-<h3>&nbsp;</h3>
+
