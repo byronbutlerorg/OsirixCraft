@@ -9,7 +9,7 @@
 
 <hr>
 
-<p>Pagina Oficial de desarrollo, reporte y solucion de bugs y descarga de modpack del servidor.</p>
+<p>Pagina Oficial de desarrollo, reporte de bugs y descarga de modpack del servidor.</p>
 
 <p><strong>Importante:</strong> Para agilizar el procedimiento, desde el principio se recomienda aportar pruebas en imágenes o videos relacionados con su reporte, así se responderá lo antes posible y facilitará el proceso.</p>
 
