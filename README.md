@@ -5,6 +5,10 @@
 ![downloads - 0](https://img.shields.io/github/downloads/byronbutlerorg/OsirixCraft/total?color=blue&style=for-the-badge)
 [![Support Server](https://img.shields.io/discord/704791657463283882.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/YpteAkE)
 
+<h3><strong>End Westlands - Server Público</strong></h3><span>⛔CLOSED SERVER⛔</span>
+
+<hr>
+
 <h3>ES- <strong>OsirixCraft Mods</strong></h3>
 <p>El modpack de OsirixCraft es un conjunto de mods que agregan una variedad de contenidos customizados, aventura, exploraci&oacute;n, npc, misiones y m&aacute;s. Estos mods est&aacute;n seleccionados para su uso en el servidor de OsirixCraft para la comunidad de OsirixPlayer.</p>
 
