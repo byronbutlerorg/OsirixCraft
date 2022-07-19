@@ -13,7 +13,7 @@
 
 <p><strong>Importante:</strong> Para agilizar el procedimiento, desde el principio se recomienda aportar pruebas en imágenes o videos relacionados con su reporte, así se responderá lo antes posible y facilitará el proceso.</p>
 
-<p>Para reportar un bug puedes hacerlo en el apartado "<a href="https://github.com/byronbutlerorg/OsirixCraf/issues">Issues</a>" en esta página de github, o si no tienes cuenta tambíen puedes utilizar este <a href="https://forms.gle/K6agmcZBtSAjJMBw5">formulario</a>.</p>
+<p>Para reportar un bug puedes hacerlo en el apartado "<a href="https://github.com/byronbutlerorg/OsirixCraft/issues">Issues</a>" en esta página de github, o si no tienes cuenta tambíen puedes utilizar este <a href="https://forms.gle/K6agmcZBtSAjJMBw5">formulario</a>.</p>
 
 <h5>Reportar lo siguiente.</h5>
 
