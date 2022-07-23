@@ -5,7 +5,7 @@
 ![downloads - 0](https://img.shields.io/github/downloads/byronbutlerorg/OsirixCraft/total?color=blue&style=for-the-badge)
 [![Support Server](https://img.shields.io/discord/704791657463283882.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/YpteAkE)
 
-<h3><strong>OsirixCraft 2 - Server Público</strong></h3><span>⛔Apertura Sabado 23 a las 18.00h⛔</span>
+<h3><strong>OsirixCraft 2 - Server Público</strong></h3>
 
 <hr>
 
